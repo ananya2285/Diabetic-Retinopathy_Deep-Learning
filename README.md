@@ -6,3 +6,6 @@ Diabetic retinopathy (DR) is a common and potentially dangerous consequence of d
 
 The main goal of this study is to design, implement, and evaluate a robust deep learning model for efficient and accurate diabetic retinopathy detection.
 
+## Problem Statement
+
+Creating scalable, accurate, and efficient deep learning models to identify and diagnose diabetic retinopathy early and lower the risk of blindness and vision loss in people with diabetes
